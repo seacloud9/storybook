@@ -32,6 +32,7 @@
     "lodash": "^4.17.11",
     "prop-types": "^15.6.2",
     "react-inspector": "^2.3.0",
+    "react-select": "^2.1.0",
     "react-split-pane": "^0.1.84",
     "react-textarea-autosize": "^7.0.4",
     "render-fragment": "^0.1.1"

@@ -274,6 +274,32 @@ const defaultValue = 'kiwi';
 const value = radios(label, options, defaultValue);
 ```
 
+### options
+
+Configurable UI for selecting a value from a set of options. 
+
+```js
+import { optionsKnob as options } from '@storybook/addon-knobs';
+
+const label = 'Fruits';
+const valuesObj = {
+  Kiwi: 'kiwi',
+  Guava: 'guava',
+  Watermelon: 'watermelon',
+};
+const defaultValue = 'kiwi';
+const optionsObj = {
+  display: 'inline-radio'
+};
+
+const value = options(label, valuesObj, defaultValue, optionsObj);
+```
+> The display property for `optionsObj` accepts:
+> - `radio`
+> - `inline-radio`
+> - `select`
+> - `check`
+
 ### files
 
 Allows you to get a value from a file input from the user.
