@@ -24,9 +24,9 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "4.0.0",
-    "@storybook/components": "4.0.0",
-    "@storybook/core-events": "4.0.0",
+    "@storybook/addons":"https://github.com/seacloud9/storybook",
+    "@storybook/components":"https://github.com/seacloud9/storybook",
+    "@storybook/core-events":"https://github.com/seacloud9/storybook",
     "global": "^4.3.2",
     "prop-types": "^15.6.2"
   },

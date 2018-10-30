@@ -28,12 +28,12 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "4.0.0",
-    "@storybook/channel-websocket": "4.0.0",
-    "@storybook/channels": "4.0.0",
-    "@storybook/core": "4.0.0",
-    "@storybook/core-events": "4.0.0",
-    "@storybook/ui": "4.0.0",
+    "@storybook/addons":"https://github.com/seacloud9/storybook",
+    "@storybook/channel-websocket":"https://github.com/seacloud9/storybook",
+    "@storybook/channels":"https://github.com/seacloud9/storybook",
+    "@storybook/core":"https://github.com/seacloud9/storybook",
+    "@storybook/core-events":"https://github.com/seacloud9/storybook",
+    "@storybook/ui":"https://github.com/seacloud9/storybook",
     "@babel/core": "7.0.0-beta.47",
     "@babel/polyfill": "7.0.0-beta.47",
     "@babel/preset-env": "7.0.0-beta.47",

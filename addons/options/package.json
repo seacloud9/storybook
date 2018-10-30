@@ -23,7 +23,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "4.0.0",
+    "@storybook/addons":"https://github.com/seacloud9/storybook",
     "util-deprecate": "^1.0.2"
   },
   "peerDependencies": {

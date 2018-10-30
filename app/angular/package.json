@@ -29,8 +29,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
-    "@storybook/core": "4.0.0",
-    "@storybook/node-logger": "4.0.0",
+    "@storybook/core":"https://github.com/seacloud9/storybook",
+    "@storybook/node-logger":"https://github.com/seacloud9/storybook",
     "angular2-template-loader": "^0.6.2",
     "core-js": "^2.5.7",
     "fork-ts-checker-webpack-plugin": "^0.4.14",

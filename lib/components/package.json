@@ -37,8 +37,8 @@
     "render-fragment": "^0.1.1"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "4.0.0",
-    "@storybook/addon-knobs": "4.0.0",
+    "@storybook/addon-actions":"https://github.com/seacloud9/storybook",
+    "@storybook/addon-knobs":"https://github.com/seacloud9/storybook",
     "@storybook/react": "4.0.0"
   },
   "peerDependencies": {
